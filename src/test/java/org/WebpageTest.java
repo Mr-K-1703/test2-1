@@ -17,7 +17,7 @@ public class WebpageTest {
 // Open the web page (GitHub Pages URL or local file URL)
 //driver.get("https://thejan.github.io/DevOpsLabExperiments/");
 // OR if using local file:
-        driver.get("file:///D:/Test/Test2/src/main/resources/docs/index.html");
+        driver.get("file:///D:/Test/Test2/src/main/resources/index.html");
     }
     @Test
     public void titleValidationTest() {
